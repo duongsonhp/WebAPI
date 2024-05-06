@@ -1,0 +1,17 @@
+E:\Source\CSharp\College\DataLayer\bin\Release\net8.0\DataLayer.deps.json
+E:\Source\CSharp\College\DataLayer\bin\Release\net8.0\DataLayer.runtimeconfig.json
+E:\Source\CSharp\College\DataLayer\bin\Release\net8.0\DataLayer.dll
+E:\Source\CSharp\College\DataLayer\bin\Release\net8.0\DataLayer.pdb
+E:\Source\CSharp\College\DataLayer\bin\Release\net8.0\Utilities.dll
+E:\Source\CSharp\College\DataLayer\bin\Release\net8.0\Utilities.pdb
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\DataLayer.csproj.AssemblyReference.cache
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\DataLayer.AssemblyInfoInputs.cache
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\DataLayer.AssemblyInfo.cs
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\DataLayer.csproj.Up2Date
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\DataLayer.dll
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\refint\DataLayer.dll
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\DataLayer.pdb
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\DataLayer.genruntimeconfig.cache
+E:\Source\CSharp\College\DataLayer\obj\Release\net8.0\ref\DataLayer.dll

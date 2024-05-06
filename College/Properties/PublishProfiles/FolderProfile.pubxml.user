@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Source\CSharp\College_Published</_PublishTargetUrl>
+    <History>True|2024-05-06T03:43:34.4309482Z;True|2024-05-06T10:42:40.0983780+07:00;True|2024-05-06T10:42:03.8868611+07:00;True|2024-05-05T22:49:51.0248490+07:00;True|2024-05-05T22:42:28.5739561+07:00;True|2024-05-05T22:35:54.7134261+07:00;True|2024-05-05T22:30:15.7843707+07:00;False|2024-05-05T22:28:27.4660816+07:00;True|2024-05-05T21:53:25.3972878+07:00;True|2024-05-05T21:22:09.6644512+07:00;True|2024-05-05T20:44:59.6808997+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Source\\CSharp\\College\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D46C5-ECC7-4455-B013-24D40B09A354}|DataLayer\\DataLayer.csproj|e:\\source\\csharp\\college\\datalayer\\collegecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D46C5-ECC7-4455-B013-24D40B09A354}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\collegecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3E6EBB-C3DB-4B81-B066-0BC486BA6E25}|College\\College.csproj|e:\\source\\csharp\\college\\college\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3E6EBB-C3DB-4B81-B066-0BC486BA6E25}|College\\College.csproj|solutionrelative:college\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3E6EBB-C3DB-4B81-B066-0BC486BA6E25}|College\\College.csproj|e:\\source\\csharp\\college\\college\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3E6EBB-C3DB-4B81-B066-0BC486BA6E25}|College\\College.csproj|solutionrelative:college\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3E6EBB-C3DB-4B81-B066-0BC486BA6E25}|College\\College.csproj|e:\\source\\csharp\\college\\college\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D3E6EBB-C3DB-4B81-B066-0BC486BA6E25}|College\\College.csproj|solutionrelative:college\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D46C5-ECC7-4455-B013-24D40B09A354}|DataLayer\\DataLayer.csproj|e:\\source\\csharp\\college\\datalayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D46C5-ECC7-4455-B013-24D40B09A354}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollegeContext.cs",
+              "DocumentMoniker": "E:\\Source\\CSharp\\College\\DataLayer\\CollegeContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\CollegeContext.cs",
+              "ToolTip": "E:\\Source\\CSharp\\College\\DataLayer\\CollegeContext.cs",
+              "RelativeToolTip": "DataLayer\\CollegeContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:12:43.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Source\\CSharp\\College\\College\\appsettings.json",
+              "RelativeDocumentMoniker": "College\\appsettings.json",
+              "ToolTip": "E:\\Source\\CSharp\\College\\College\\appsettings.json",
+              "RelativeToolTip": "College\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T15:16:30.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Source\\CSharp\\College\\College\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "College\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Source\\CSharp\\College\\College\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "College\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAawCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:09:17.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Source\\CSharp\\College\\DataLayer\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\Student.cs",
+              "ToolTip": "E:\\Source\\CSharp\\College\\DataLayer\\Entities\\Student.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:02:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Source\\CSharp\\College\\College\\Program.cs",
+              "RelativeDocumentMoniker": "College\\Program.cs",
+              "ToolTip": "E:\\Source\\CSharp\\College\\College\\Program.cs",
+              "RelativeToolTip": "College\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T03:07:06.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
